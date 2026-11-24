@@ -1113,5 +1113,23 @@
       "footer": null,
       "utilityNav": null
     }
+  },
+  {
+    "slug": "home-copy",
+    "title": "Peace In Pressure – Collectible Freediver Trading Cards (copy)",
+    "description": "The world's first collectible freediver trading cards, celebrating the athletes rewriting the limits of the human body.",
+    "path": "/home-copy",
+    "out": "home-copy/index.html",
+    "dir": "home-copy",
+    "status": "draft",
+    "seo": {
+      "ogImage": "/images/art-poseidon-v2.png",
+      "noindex": false
+    },
+    "templates": {
+      "header": null,
+      "footer": null,
+      "utilityNav": null
+    }
   }
 ]
