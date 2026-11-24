@@ -22,15 +22,6 @@
           "url": null,
           "newTab": false,
           "children": []
-        },
-        {
-          "id": "news",
-          "label": "News",
-          "type": "url",
-          "ref": null,
-          "url": "/#news",
-          "newTab": false,
-          "children": []
         }
       ]
     },
