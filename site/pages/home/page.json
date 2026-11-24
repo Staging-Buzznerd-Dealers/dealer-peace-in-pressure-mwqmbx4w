@@ -304,36 +304,8 @@
             }
           ]
         }
-      }
-    },
-    {
-      "id": "news",
-      "type": "sharedSection",
-      "props": {
-        "sectionId": "news-stories",
-        "values": {
-          "featureTitle": "The 120-Meter Barrier Finally Falls",
-          "featureDek": "Inside the dive that redrew the map of what's possible on a single breath — and the safety team that brought her home.",
-          "featureMeta": "Jun 28, 2026 · 6 min read",
-          "stories": [
-            {
-              "category": "Athlete",
-              "title": "Rurik Halden holds his breath for 11:54",
-              "date": "Jun 24, 2026"
-            },
-            {
-              "category": "Safety",
-              "title": "Inside the safety-diver protocol at Vertical Blue",
-              "date": "Jun 19, 2026"
-            },
-            {
-              "category": "Science",
-              "title": "What happens to the body past 100 meters",
-              "date": "Jun 12, 2026"
-            }
-          ]
-        }
-      }
+      },
+      "children": []
     },
     {
       "id": "join",
@@ -341,7 +313,8 @@
       "props": {
         "sectionId": "join-cta",
         "values": {}
-      }
+      },
+      "children": []
     },
     {
       "id": "promo",
@@ -354,60 +327,8 @@
             "alt": ""
           }
         }
-      }
-    },
-    {
-      "id": "partners",
-      "type": "sharedSection",
-      "props": {
-        "sectionId": "partner-strip",
-        "values": {
-          "logos": [
-            {
-              "image": {
-                "src": "",
-                "alt": "Partner logo"
-              },
-              "url": ""
-            },
-            {
-              "image": {
-                "src": "",
-                "alt": "Partner logo"
-              },
-              "url": ""
-            },
-            {
-              "image": {
-                "src": "",
-                "alt": "Partner logo"
-              },
-              "url": ""
-            },
-            {
-              "image": {
-                "src": "",
-                "alt": "Partner logo"
-              },
-              "url": ""
-            },
-            {
-              "image": {
-                "src": "",
-                "alt": "Partner logo"
-              },
-              "url": ""
-            },
-            {
-              "image": {
-                "src": "",
-                "alt": "Partner logo"
-              },
-              "url": ""
-            }
-          ]
-        }
-      }
+      },
+      "children": []
     }
   ]
 }
